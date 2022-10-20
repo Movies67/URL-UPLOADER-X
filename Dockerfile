@@ -10,5 +10,5 @@ COPY . /app
 
 #set a default command
 
-CMD python3 main.py
+CMD python3 sample_config.py
 
